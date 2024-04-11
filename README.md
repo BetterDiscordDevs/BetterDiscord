@@ -1,0 +1,2 @@
+# BetterDiscord
+BetterDiscord Theme/Plugin
